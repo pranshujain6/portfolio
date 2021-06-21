@@ -1,0 +1,88 @@
+#navbar{
+    padding-top: 10px;
+    background-color:green;
+    height: 50px;
+}
+#navbar a{
+    margin-left:7%;
+    color: black
+}
+#navbar a:hover{
+    color:white
+}
+
+#introduction{
+    padding: 40px;
+}
+
+.profileImg{
+    height: 100%;
+    width: 100%
+}
+
+#education{
+    margin-left:25%
+}
+#education img{
+    height: 100%;
+    width:100%;
+    position: absolute;
+}
+
+#education h1{
+    margin-left: 30%;
+    
+}
+.collageName{
+    position: relative;
+    color:brown;
+    opacity: -3;  
+}
+.collageName:hover{
+    opacity: 30;
+}
+#experience{
+    margin-top:30px;
+    margin-left: 5px
+}
+#project{
+    margin-top:30px;
+    margin-left: 5px
+}
+#project video{
+    margin-left:100px
+}
+#skills{
+    margin-top:30px
+}
+#skills .java{
+    background-color: red;
+    width:75%
+}
+#skills .Cpp{
+    background-color: red;
+    width:40%
+}
+#skills .JS{
+    background-color: red;
+    width:80%
+}
+#skills .PS{
+    background-color: red;
+    width:30%
+}
+#contact {
+    margin-left:50%;
+    
+    
+}
+#contact div{
+    padding:5px
+}
+
+#contact input{
+    margin-left:20px
+}
+#footer{
+    background-color: black;
+}
